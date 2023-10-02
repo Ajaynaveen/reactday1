@@ -1,0 +1,67 @@
+
+.pricing-section {
+    background-color: #f0f8ff; 
+    padding: 40px 0; 
+  }
+  
+  
+
+  .pricing-container {
+    background-color: rgb(62, 93, 247); 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    overflow-x: auto; 
+    padding: 20px 0; 
+    border: 1px solid #007bff; 
+  }
+  
+  
+  .col-lg-4 {
+    flex: 0 0 auto; 
+    background-color: white;
+    max-width: 32%; 
+    border: 1px solid #007bff; 
+    margin: 0 5px; 
+    padding: 15px; 
+  }
+  
+
+  .btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff;
+  }
+  
+ 
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+ 
+  .card-price {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  
+  .period {
+    font-size: 0.9rem;
+    color: #888;
+  }
+  
+
+  .fa-ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .fa-ul li {
+    margin: 5px 0;
+  }
+  
+  
+  
