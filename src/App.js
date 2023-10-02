@@ -31,7 +31,7 @@ const PriceCart = () => {
                     <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Monthly Status Reports</li>
                   </ul>
                   <div className="d-grid">
-                  <a href="https://example.com" className="btn btn-primary text-uppercase">Visit Website</a>
+                  <a href="https://example.com" className="btn btn-primary text-uppercase">Button</a>
 
                   </div>
                 </div>
@@ -55,7 +55,7 @@ const PriceCart = () => {
                     <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Monthly Status Reports</li>
                   </ul>
                   <div className="d-grid">
-                  <a href="https://example.com" className="btn btn-primary text-uppercase">Visit Website</a>
+                   <a href="https://example.com" className="btn btn-primary text-uppercase">Button</a>
 
                   </div>
                 </div>
@@ -79,8 +79,10 @@ const PriceCart = () => {
                     <li><span className="fa-li"><i className="fas fa-check"></i></span>Monthly Status Reports</li>
                   </ul>
                   <div className="d-grid">
-                  <a href="https://example.com" className="btn btn-primary text-uppercase">Visit Website</a>
-                  
+                  <a href="https://example.com" className="btn btn-primary text-uppercase">Button</a>
+                 
+
+                  </div>
                 </div>
               </div>
             </div>
